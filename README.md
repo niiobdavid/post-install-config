@@ -165,5 +165,5 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img src="https://i.imgur.com/EAr3vkh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
-  
-[<h4>Now continue here</h4>](https://github.com/niiobdavid/ticket-lifecycle)
+
+  [Continue Here](https://github.com/niiobdavid/ticket-lifecycle)
